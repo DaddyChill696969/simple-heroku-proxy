@@ -2,7 +2,7 @@
 
 A simple node based proxy to hide your ugly URLs.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.com](https:/daddychill696969/heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/](https:/button.com/heroku.com/deploy)daddychill696969
 
 ## Config
 
